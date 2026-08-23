@@ -4,7 +4,7 @@
     {
       "id": "git",
       "package": "@titah/extension-git",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "title": "Git",
       "description": "Current branch, local branches, worktrees, and changed files",
       "homepage": "https://github.com/titah-dev/titah-extension-git"
