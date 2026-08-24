@@ -4,9 +4,9 @@
     {
       "id": "git",
       "package": "@titah/extension-git",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "title": "Git",
-      "description": "Current branch, local branches, worktrees, and changed files",
+      "description": "lazygit-style sidebar: files, worktrees, branches, commits, stash. Read-only.",
       "homepage": "https://github.com/titah-dev/titah-extension-git"
     }
   ]
