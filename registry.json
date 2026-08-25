@@ -8,6 +8,14 @@
       "title": "Git",
       "description": "lazygit-style sidebar: files, worktrees, branches, commits, stash. Read-only.",
       "homepage": "https://github.com/titah-dev/titah-extension-git"
+    },
+    {
+      "id": "diff",
+      "package": "@titah/extension-diff",
+      "version": "0.1.0",
+      "title": "Diff",
+      "description": "Tabbed right-side panel: Git Diff (unified) and Session Changes (in-memory).",
+      "homepage": "https://github.com/titah-dev/titah-extension-diff"
     }
   ]
 }
