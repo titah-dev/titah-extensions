@@ -4,7 +4,7 @@
     {
       "id": "git",
       "package": "@titah/extension-git",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "title": "Git",
       "description": "lazygit-style sidebar: files, worktrees, branches, commits, stash. Read-only.",
       "homepage": "https://github.com/titah-dev/titah-extension-git"
@@ -12,9 +12,9 @@
     {
       "id": "diff",
       "package": "@titah/extension-diff",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "title": "Diff",
-      "description": "Tabbed right-side panel: Git Diff (unified) and Session Changes (in-memory).",
+      "description": "Editor-style git diff: line numbers, colours, and block a range into the prompt.",
       "homepage": "https://github.com/titah-dev/titah-extension-diff"
     }
   ]
